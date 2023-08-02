@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-color: gray;
 }
 
 .image{
@@ -17,3 +17,18 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+
+
+
+}
+a{
+    color:aqua;
+}
+a:hover {
+    color: violet
+}
+
+p {text-align:center;
+ }
+
+
